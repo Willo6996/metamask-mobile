@@ -4774,10 +4774,8 @@
   resolved "https://registry.yarnpkg.com/@metamask/bitcoin-wallet-snap/-/bitcoin-wallet-snap-0.9.0.tgz#47014c75c1e1ed84fef57177901f458fd2b6510a"
   integrity sha512-983twhfOfSCQljT+eV8JLcV0bqGVMObXnEy8TOFAkwwRW2I1ZsVRAfylbGiSwxlhxLntcpLqVu0Sj29xNyA06Q==
 
-"@metamask/bridge-controller@^17.0.0":
+"@metamask/bridge-controller@file:.yalc/@metamask/bridge-controller":
   version "17.0.0"
-  resolved "https://registry.npmjs.org/@metamask/bridge-controller/-/bridge-controller-17.0.0.tgz#fc825665d9f7d6803d136a62b4a282151d4ea2c6"
-  integrity sha512-PBeOfaPH8r/tfPvDrZi03KCNGYI7JDfcyy8Q8841JoLK12YCfHSlRHV4vEg+GRtCkLvhSfwW89h6uHEcb0/JNw==
   dependencies:
     "@ethersproject/address" "^5.7.0"
     "@ethersproject/bignumber" "^5.7.0"
