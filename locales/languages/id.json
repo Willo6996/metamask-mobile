@@ -3576,6 +3576,9 @@
       "body_prefix": "Anda bisa menghasilkan hingga",
       "body_suffix": "per tahun dengan meminjamkan {{tokenSymbol}} milik Anda.",
       "start_earning": "Mulai menghasilkan"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

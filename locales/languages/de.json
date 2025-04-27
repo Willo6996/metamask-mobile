@@ -3576,6 +3576,9 @@
       "body_prefix": "Sie könnten bis zu",
       "body_suffix": "pro Jahr verdienen, indem Sie Ihre {{tokenSymbol}} verleihen.",
       "start_earning": "Mit dem Verdienen beginnen"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

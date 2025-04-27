@@ -3576,6 +3576,9 @@
       "body_prefix": "您可赚取高达",
       "body_suffix": "即通过借出您的 {{tokenSymbol}} 每年可赚取的金额。",
       "start_earning": "开始赚取"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

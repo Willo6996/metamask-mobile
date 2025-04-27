@@ -29,9 +29,9 @@
       "message": "Ang site na humihiling ay hindi ang site kung saan ka nagsa-sign in. Maaaring isa itong pagtatangkang nakawin ang iyong mga kredensyal sa pag-login."
     },
     "insufficient_balance": {
-      "title": "Insufficient funds",
-      "message": "You do not have enough %{nativeCurrency} in your account to pay for network fees.",
-      "buy_action": "Buy %{nativeCurrency}"
+      "title": "Hindi sapat ang pondo",
+      "message": "Wala kang sapat na %{nativeCurrency} sa iyong account para bayaran ang mga bayarin sa network.",
+      "buy_action": "Bumili ng %{nativeCurrency}"
     }
   },
   "blockaid_banner": {
@@ -83,11 +83,11 @@
     "connector": "sa"
   },
   "autocomplete": {
-    "placeholder": "Search by token, site or address",
+    "placeholder": "Maghanap ayon sa token, site o address",
     "recents": "Mga Kamakailan",
     "favorites": "Mga Paborito",
     "sites": "Mga Site",
-    "tokens": "Tokens"
+    "tokens": "Mga Token"
   },
   "navigation": {
     "back": "Bumalik",
@@ -444,8 +444,8 @@
       "subtitle": "Kontrolin kung paano ipapakita ang balanse mo sa mga setting"
     },
     "multisrp": {
-      "title": "Add multiple Secret Recovery Phrases",
-      "subtitle": "Import and use multiple wallets in MetaMask"
+      "title": "Magdagdag ng maramihang Secret Recovery Phrase",
+      "subtitle": "Mag-import at gumamit ng maramihang wallet sa MetaMask"
     }
   },
   "wallet": {
@@ -800,7 +800,7 @@
       "solana_account_name": "Solana Account"
     },
     "error_messages": {
-      "failed_to_create_account": "Failed to create {{clientType}} account"
+      "failed_to_create_account": "Nabigo na gumawa ng {{clientType}} account"
     }
   },
   "toast": {
@@ -985,7 +985,7 @@
     "network_rpc_url_label": "RPC URL",
     "network_rpc_name_label": "Pangalan ng RPC",
     "network_rpc_placeholder": "Bagong RPC Network",
-    "network_failover_rpc_url_label": "Failover RPC URL",
+    "network_failover_rpc_url_label": "Failover na RPC URL",
     "failover": "Failover",
     "network_chain_id_label": "ID ng Chain",
     "network_chain_id_placeholder": "ID ng Chain",
@@ -1135,7 +1135,7 @@
       "description": "I-overview at pamahalaan ang iyong mga snap",
       "snap_ui": {
         "link": {
-          "accessibilityHint": "Opens in a new tab"
+          "accessibilityHint": "Magbubukas sa bagong tab"
         }
       },
       "snap_settings": {
@@ -1508,7 +1508,7 @@
     "gas_fee_slow": "MABAGAL",
     "hex_data": "Hex na Data",
     "custom_nonce": "Nonce",
-    "custom_nonce_tooltip": "This is the transaction number of an account. Nonce for the first transaction is 0 and it increases in sequential order.",
+    "custom_nonce_tooltip": "Ito ang numero ng transaksyon ng isang account. Ang nonce para sa unang transaksyon ay 0 at tumataas ito sa sunod-sunod na pagkakaayos.",
     "this_is_an_advanced": "Isa itong advanced na feature na ginagamit para makansela o mapabilis ang anumang nakabinbing transaksyon.",
     "current_suggested_nonce": "Kasalukuyang iminumungkahing nonce:",
     "edit_transaction_nonce": "I-edit ang nonce ng transaksyon",
@@ -1787,7 +1787,7 @@
     "tx_details_not_available": "Hindi available",
     "smart_contract_interaction": "Interaksyon sa smart na kontrata",
     "swaps_transaction": "Transaksyon sa mga swap",
-    "bridge_transaction": "Bridge",
+    "bridge_transaction": "Mag-bridge",
     "approve": "Aprubahan",
     "increase_allowance": "Dagdag na Allowance",
     "set_approval_for_all": "Itakda ang Pag-apruba Para sa Lahat",
@@ -2113,7 +2113,7 @@
     "info_text_2": "Matitiyak nitong ikaw lang ang makaka-access sa iyong mga pondo at na mare-recover mo ang iyong wallet kung maiwawala mo ang iyong device",
     "cta_text": "Gumawa ng Password",
     "creating_password": "Gumagawa ng password...",
-    "srp_list_selection": "Select Secret Recovery Phrase"
+    "srp_list_selection": "Pumili ng Secret Recovery Phrase"
   },
   "account_backup_step_1": {
     "remind_me_later": "Paalalahanan ako mamaya",
@@ -2754,7 +2754,7 @@
     "minimum": "Ang pinakamababang deposito ay",
     "maximum": "Ang pinakamataas na deposito ay",
     "insufficient_balance": "Ang halagang ito ay mas mataas sa iyong balanse",
-    "insufficient_native_balance": "You don't have enough {{currency}} to cover the gas fees.",
+    "insufficient_native_balance": "Wala kang sapat na {{currency}} para takpan ang mga bayad sa gas.",
     "enter_larger_amount": "Maglagay ng mas malaking halaga para magpatuloy",
     "enter_smaller_amount": "Maglagay ng mas maliit na halaga para magpatuloy",
     "enter_lower_gas_fees": "Maglagay ng mas mababang halaga para bayaran ang gas fees",
@@ -2862,7 +2862,7 @@
     }
   },
   "swaps": {
-    "title": "Swap",
+    "title": "Mag-swap",
     "onboarding": {
       "get_the": "Makuha ang",
       "best_price": "pinakasulit na presyo",
@@ -3576,6 +3576,9 @@
       "body_prefix": "Maaari kang kumita ng hanggang",
       "body_suffix": "kada taon sa pagpapahiram ng iyong {{tokenSymbol}}.",
       "start_earning": "Magsimulang kumita"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {
@@ -3805,21 +3808,21 @@
       "permit_revoke": "Alisin ang pahintulot",
       "permit_NFTs": "Kahilingang mag-withdraw",
       "signature_siwe": "Kahilingan sa pag-sign in",
-      "contract_interaction": "Transaction request"
+      "contract_interaction": "Kahilingan sa transaksyon"
     },
     "sub_title": {
       "permit": "Kailangan ng site na ito ng pahintulot para gastusin ang mga token mo.",
       "permit_NFTs": "Kailangan ng site na ito ng pahintulot para i-withdraw ang mga NFT mo.",
       "signature": "Suriin ang mga detalye ng kahilingan bago mo kumpirmahin.",
       "signature_siwe": "Hinihiling ng site na mag-sign in ka para patunayan na ikaw ang may-ari ng account na ito.",
-      "contract_interaction": "Review request details before you confirm."
+      "contract_interaction": "Suriin ang mga detalye ng kahilingan bago mo kumpirmahin."
     },
     "request_from": "Kahilingan mula sa/kay",
     "staking_from": "Pag-stake mula sa/kay",
     "signing_in_with": "Nagsa-sign in gamit ang",
     "message": "Mensahe",
     "personal_sign_tooltip": "Hinihingi ng site na ito ang iyong pirma",
-    "transaction_tooltip": "This site is asking for your transaction",
+    "transaction_tooltip": "Hinihingi ng site na ito ang iyong transaksyon",
     "details": "Mga detalye",
     "qr_get_sign": "Kumuha ng Lagda",
     "qr_scan_text": "I-scan gamit ang iyong wallet na hardware",
@@ -3855,8 +3858,8 @@
     },
     "unlimited": "Walang limitasyon",
     "none": "Wala",
-    "advanced_details": "Advanced details",
-    "interacting_with": "Interacting with",
+    "advanced_details": "Advanced na mga detalye",
+    "interacting_with": "Nakikipag-ugnayan sa",
     "review": "Review"
   },
   "change_in_simulation_modal": {
@@ -3899,14 +3902,14 @@
     "quote_info_content": "Nag-aalok ang quote na ito ng pinakamainam na return mula sa aming paghahanap. Nakabatay ito sa rate ng pag-swap, kabilang ang mga bayad sa pag-bridge at 0.875% na bayad sa MetaMask, ngunit hindi ito mga bayad sa gas. Iba-iba ang mga bayad sa gas depende sa aktibidad ng network at pagiging kumplikado ng transaksyon.",
     "quote_info_title": "Bakit namin inirerekomenda ang quote na ito",
     "see_other_quotes": "Tingnan ang ibang mga quote",
-    "receive_at": "Receive at",
-    "error_banner_description": "This trade route isn't available right now. Try changing the amount, network, or token and we'll find the best option.",
-    "insufficient_funds": "Insufficient funds",
-    "select_amount": "Select amount",
-    "bridge_to": "Bridge to",
-    "title": "Bridge",
-    "submitting_transaction": "Submitting",
-    "fetching_quote": "Fetching quote"
+    "receive_at": "Natanggap sa",
+    "error_banner_description": "Hindi available ang ruta ng trade na ito sa ngayon. Subukang baguhin ang halaga, network, o token at hahanapin namin ang pinakamainam na solusyon.",
+    "insufficient_funds": "Hindi sapat ang pondo",
+    "select_amount": "Pumili ng halaga",
+    "bridge_to": "I-bridge sa",
+    "title": "Mag-bridge",
+    "submitting_transaction": "Isinusumite",
+    "fetching_quote": "Kumukuha ng quote"
   },
   "quote_expired_modal": {
     "title": "New quotes are available",
@@ -3914,18 +3917,18 @@
     "get_new_quote": "Get new quote"
   },
   "bridge_transaction_details": {
-    "status": "Status",
-    "date": "Date",
-    "total_gas_fee": "Total gas fee",
-    "estimated_completion": "Est. completion",
-    "bridge_step_action_bridge_complete": "{{destSymbol}} received on {{destChainName}}",
-    "bridge_step_action_bridge_pending": "Receiving {{destSymbol}} on {{destChainName}}",
-    "bridge_step_action_swap_complete": "Swapped {{srcSymbol}} for {{destSymbol}}",
-    "bridge_step_action_swap_pending": "Swapping {{srcSymbol}} for {{destSymbol}}",
-    "view_on_block_explorer": "View on Block Explorer",
-    "block_explorer_description": "This transaction lives on two networks. The first link shows the source; the second shows the destination once it’s confirmed.",
-    "transaction_details": "Transaction Details",
-    "bridge_to_chain": "Bridge to {{chainName}}",
-    "recipient": "Recipient"
+    "status": "Katayuan",
+    "date": "Petsa",
+    "total_gas_fee": "Kabuuang bayad sa gas",
+    "estimated_completion": "Pagkumpleto sa pagtataya",
+    "bridge_step_action_bridge_complete": "Ang {{destSymbol}} ay natanggap sa {{destChainName}}",
+    "bridge_step_action_bridge_pending": "Tinatanggap ang {{destSymbol}} sa {{destChainName}}",
+    "bridge_step_action_swap_complete": "Nag-swap ng {{srcSymbol}} para sa {{destSymbol}}",
+    "bridge_step_action_swap_pending": "Nagsu-swap ng {{srcSymbol}} para sa {{destSymbol}}",
+    "view_on_block_explorer": "Tingnan sa Block Explorer",
+    "block_explorer_description": "Ang transaksyon na ito ay naka-live sa dalawang network. Ipinapakita ng unang link ang pinagmulan; ipinapakita ng pangalawa ang pupuntahan sa sandaling makumpirma ito.",
+    "transaction_details": "Mga Detalye ng Transaksyon",
+    "bridge_to_chain": "I-bridge sa {{chainName}}",
+    "recipient": "Tatanggap"
   }
 }

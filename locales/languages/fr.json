@@ -2862,7 +2862,7 @@
     }
   },
   "swaps": {
-    "title": "Swap",
+    "title": "Échanger",
     "onboarding": {
       "get_the": "Bénéficiez en permanence",
       "best_price": "du meilleur prix",
@@ -3576,6 +3576,9 @@
       "body_prefix": "Vous pouvez gagner jusqu’à",
       "body_suffix": "par an en prêtant vos {{tokenSymbol}}.",
       "start_earning": "Commencez à générer des revenus"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {
@@ -3919,13 +3922,13 @@
     "total_gas_fee": "Montant total des frais de gaz",
     "estimated_completion": "Temps estimé pour la réalisation de l’opération",
     "bridge_step_action_bridge_complete": "{{destSymbol}} reçu sur {{destChainName}}",
-    "bridge_step_action_bridge_pending": "Recevoir {{destSymbol}} sur {{destChainName}}",
+    "bridge_step_action_bridge_pending": "Recevant {{destSymbol}} sur {{destChainName}}",
     "bridge_step_action_swap_complete": "A échangé {{srcSymbol}} contre {{destSymbol}}",
-    "bridge_step_action_swap_pending": "Échanger {{srcSymbol}} contre {{destSymbol}}",
+    "bridge_step_action_swap_pending": "Échangeant {{srcSymbol}} contre {{destSymbol}}",
     "view_on_block_explorer": "Afficher sur l’explorateur de blocs",
     "block_explorer_description": "Cette transaction se déroule sur deux réseaux. Le premier lien indique la source ; le second indique la destination une fois qu’elle est confirmée.",
     "transaction_details": "Détails de la transaction",
-    "bridge_to_chain": "Établir une passerelle vers {{chainName}}",
+    "bridge_to_chain": "Passerelle vers {{chainName}}",
     "recipient": "Destinataire"
   }
 }

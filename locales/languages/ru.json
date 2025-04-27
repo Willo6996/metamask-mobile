@@ -3576,6 +3576,9 @@
       "body_prefix": "Вы могли бы заработать до",
       "body_suffix": "в год, дав взаймы свои {{tokenSymbol}}.",
       "start_earning": "Начать зарабатывать"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

@@ -3576,6 +3576,9 @@
       "body_prefix": "आप  तक कमा सकते हैं",
       "body_suffix": "प्रति वर्ष अपना {{tokenSymbol}} उधार देकर।",
       "start_earning": "कमाना शुरु करें"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

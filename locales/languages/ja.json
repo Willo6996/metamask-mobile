@@ -3576,6 +3576,9 @@
       "body_prefix": "{{tokenSymbol}}を貸して年間最大",
       "body_suffix": "の収入を獲得できます。",
       "start_earning": "収益化を開始"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

@@ -3576,6 +3576,9 @@
       "body_prefix": "연간 최대",
       "body_suffix": "의 수익을 올릴 수 있습니다({{tokenSymbol}} 빌려줄 경우).",
       "start_earning": "수익화 시작"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

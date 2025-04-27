@@ -3576,6 +3576,9 @@
       "body_prefix": "Yılda",
       "body_suffix": "tutara kadar kazanmak için {{tokenSymbol}} borç verebilirsiniz.",
       "start_earning": "Kazanmaya başlayın"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {
@@ -3819,7 +3822,7 @@
     "signing_in_with": "Şununla giriş yapılıyor:",
     "message": "Mesaj",
     "personal_sign_tooltip": "Bu site imzanızı istiyor",
-    "transaction_tooltip": "Bu site işleminizi istiyor",
+    "transaction_tooltip": "Bu site, işleminizi istiyor",
     "details": "Ayrıntılar",
     "qr_get_sign": "İmza Al",
     "qr_scan_text": "Donanım cüzdanınızla tarayın",
@@ -3899,11 +3902,11 @@
     "quote_info_content": "Aramamıza göre bu teklif en iyi getiriyi sunmaktadır. Swap oranına dayanır ve köprüleme ücretleri ve %0,875 MetaMask ücreti dahildir ancak gaz ücretleri dahil değildir. Gaz ücretleri ağ faaliyetine ve işlemin karmaşıklığına göre değişiklik gösterebilir.",
     "quote_info_title": "Neden bu teklifi öneriyoruz",
     "see_other_quotes": "Diğer teklifleri gör",
-    "receive_at": "Alınacak",
-    "error_banner_description": "Bu işlem rotası şu anda kullanılamıyor. Tutarı, ağı veya token'ı değiştirmeyi deneyin ve en iyi seçeneği bulalım.",
+    "receive_at": "Şurada alınacak:",
+    "error_banner_description": "Bu işlem rotası şu anda kullanılamıyor. Tutarı, ağı veya token'ı değiştirmeyi deneyin ve sizin için en iyi seçeneği bulalım.",
     "insufficient_funds": "Para yetersiz",
     "select_amount": "Tutar seçin",
-    "bridge_to": "Köprü yapılan",
+    "bridge_to": "Köprü yapılan:",
     "title": "Köprü",
     "submitting_transaction": "Gönderiliyor",
     "fetching_quote": "Teklif alınıyor"
@@ -3923,7 +3926,7 @@
     "bridge_step_action_swap_complete": "{{srcSymbol}} - {{destSymbol}} swap işlemi gerçekleştirildi",
     "bridge_step_action_swap_pending": "{{srcSymbol}} - {{destSymbol}} swap işlemi gerçekleştiriliyor",
     "view_on_block_explorer": "Blok Gezgininde Görüntüle",
-    "block_explorer_description": "Bu işlem iki ağda da bulunuyor. Birinci bağlantı kaynağı gösterir, ikincisi onaylandıktan sonra hedefi gösterir.",
+    "block_explorer_description": "Bu işlem iki ağda da bulunuyor. Birinci bağlantı, kaynağı gösterirken ikincisi onaylandıktan sonra hedefi gösterir.",
     "transaction_details": "İşlem Bilgileri",
     "bridge_to_chain": "{{chainName}} için köprü",
     "recipient": "Alıcı"

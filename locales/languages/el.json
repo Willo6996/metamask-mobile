@@ -3576,6 +3576,9 @@
       "body_prefix": "Μπορείτε να κερδίσετε έως και",
       "body_suffix": "ανά έτος δανείζοντας τα {{tokenSymbol}} σας.",
       "start_earning": "Ξεκινήστε να κερδίζετε"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

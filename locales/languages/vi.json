@@ -3576,6 +3576,9 @@
       "body_prefix": "Bạn có thể kiếm được tới",
       "body_suffix": "mỗi năm bằng cách cho vay {{tokenSymbol}}.",
       "start_earning": "Bắt đầu kiếm tiền"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {

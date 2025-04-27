@@ -3576,6 +3576,9 @@
       "body_prefix": "Você pode ganhar até",
       "body_suffix": "por ano emprestando seu {{tokenSymbol}}.",
       "start_earning": "Comece a ganhar"
+    },
+    "service_interruption_banner": {
+      "maintenance_message": "We're down for maintenance. We'll be back online soon!"
     }
   },
   "stake": {
